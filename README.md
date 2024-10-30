@@ -1,5 +1,5 @@
 # -Day-1-
-**Topics Covered**
+## **Topics Covered**
 1. Touch Typing
      * Touch typing allowed me to type without looking at the keyboard, significantly improving typing speed and efficiency
      * By using all fingers and adopting proper hand positioning, touch typing helped me reduce strain on the hands
