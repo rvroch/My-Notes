@@ -1,4 +1,4 @@
-# Day 1
+#-Day-1-
 ## Topics Covered
 1. Touch Typing
      * Touch typing allowed me to type without looking at the keyboard, significantly improving typing speed and efficiency
